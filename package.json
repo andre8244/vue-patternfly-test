@@ -9,8 +9,12 @@
   },
   "dependencies": {
     "@patternfly/patternfly": "^4.87.3",
+    "@patternfly/react-core": "^4.115.2",
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "vue": "^2.6.11",
+    "vuera": "^0.2.7"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
